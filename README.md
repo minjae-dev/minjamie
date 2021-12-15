@@ -22,8 +22,12 @@ Hello world!🌏 It's me!🙋‍♂
 (주)프레젤글로벌커넥션 그륩(2021.11.15~12.09 4주간 프론트 2명, 백앤드 1명)
 
 🛠 Skills
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 📚 Planning to learn && Want to learn
 
 
@@ -31,5 +35,5 @@ Hello world!🌏 It's me!🙋‍♂
 
 
 ☎ Contact
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) minjae2246@gmail.com
 🤘 My Github Info
