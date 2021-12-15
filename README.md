@@ -2,7 +2,7 @@ hayyim0626/README.md
 Hello world!🌏 It's me!🙋‍♂
 🙋‍♂ Personal Profile
 - 개발자로서 성장하기 위해서 혼자 보단 **함께**를 지향하며 성장하며 배운 과정을 **기록화**하는 것을 습관화합니다.
-    - 오늘보다 발전한 내일을 위해서 배운 것들을 ****[기술 블로그](https://velog.io/@minj9_6)에 
+    - 오늘보다 발전한 내일을 위해서 배운 것들을 [기술 블로그](https://velog.io/@minj9_6)에 
     꾸준히 배운 것들을 **기록**하며 운영하고 있습니다.
     - 약 2개월간 진행한 [Deep Dive JavaScript 스터디](https://www.notion.so/Javascript-Study-f1e8f6f35a2d4715812ba613ee7cda74)에서 매주 
     발표를 통해 다양한 사람들과 함께 의견을 나누며 효율적인 
@@ -19,17 +19,13 @@ Hello world!🌏 It's me!🙋‍♂
 
 
 👨‍💻 Work Expericnce
-(주)디에이그라운드(2021.2~)
-
-
-(주)얼리슬로스(2020.10~2020.11)
+(주)프레젤글로벌커넥션 그륩(2021.11.15~12.09 4주간 프론트 2명, 백앤드 1명)
 
 🛠 Skills
-Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge
 
 📚 Planning to learn && Want to learn
-Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+![Generic badge](https://img.shields.io/badge/{front text}-{rear text}-{color}.svg)
 
 👨‍🏫 Portfolio
 Generic badge
