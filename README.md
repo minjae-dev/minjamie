@@ -29,6 +29,7 @@ Generic badge Generic badge Generic badge Generic badge Generic badge Generic ba
 
 📚 Planning to learn && Want to learn
 Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 👨‍🏫 Portfolio
 Generic badge
