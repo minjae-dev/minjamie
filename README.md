@@ -22,18 +22,14 @@ Hello world!🌏 It's me!🙋‍♂
 (주)프레젤글로벌커넥션 그륩(2021.11.15~12.09 4주간 프론트 2명, 백앤드 1명)
 
 🛠 Skills
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 📚 Planning to learn && Want to learn
 
-![Generic badge](https://img.shields.io/badge/{front text}-{rear text}-{color}.svg)
 
 👨‍🏫 Portfolio
-Generic badge
-Generic badge
-Generic Badge
+
 
 ☎ Contact
-Generic badge
 
 🤘 My Github Info
-Top Langs Anurag's github stats
