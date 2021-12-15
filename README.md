@@ -1,6 +1,5 @@
-hayyim0626/README.md
-Hello world!🌏 It's me!🙋‍♂
-🙋‍♂ Personal Profile
+## Hello world!🌏 It's me!🙋‍♂
+# 🙋‍♂ Personal Profile
 - 개발자로서 성장하기 위해서 혼자 보단 **함께**를 지향하며 성장하며 배운 과정을 **기록화**하는 것을 습관화합니다.
     - 오늘보다 발전한 내일을 위해서 배운 것들을 [기술 블로그](https://velog.io/@minj9_6)에 
     꾸준히 배운 것들을 **기록**하며 운영하고 있습니다.
@@ -21,7 +20,7 @@ Hello world!🌏 It's me!🙋‍♂
 👨‍💻 Work Expericnce
 (주)프레젤글로벌커넥션 그륩(2021.11.15~12.09 4주간 프론트 2명, 백앤드 1명)
 
-🛠 Skills
+# 🛠 Skills
 ## Front-End
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,12 +37,12 @@ Hello world!🌏 It's me!🙋‍♂
 ## Common
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-📚 Planning to learn && Want to learn
+# 📚 Planning to learn && Want to learn
 
 
-👨‍🏫 Portfolio
+# 👨‍🏫 Portfolio
 
 
-☎ Contact
+# ☎ Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) minjae2246@gmail.com
 🤘 My Github Info
