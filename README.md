@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20)
+
 ## Hello world!🌏 It's me!🙋‍♂
 # 🙋‍♂ Personal Profile
 - 개발자로서 성장하기 위해서 혼자 보단 **함께**를 지향하며 성장하며 배운 과정을 **기록화**하는 것을 습관화합니다.
@@ -44,8 +46,11 @@
 
 
 # ☎ Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) minjae2246@gmail.com
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minajee2246@gmail.com)](mailto:minajee2246@gmail.com)
+	
 # 🤘 My Github Info
-![minjamie's GitHub stats](https://github-readme-stats.vercel.app/api?minjamie=anuraghazra&theme=dark&show_icons=true)
+![minjamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjamie&theme=solarized-light&show_icons=true)
 
