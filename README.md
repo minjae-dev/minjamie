@@ -30,7 +30,8 @@
 
 ## Back-End
 
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
 
 ##DevOps
 
@@ -39,18 +40,13 @@
 ## Common
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-# 📚 Planning to learn && Want to learn
-
 
 # 👨‍🏫 Portfolio
-
+[Notion](https://www.notion.so/f724167ea36e4269b05f0965fee6b013)
 
 # ☎ Contact
 <a href="https://velog.io/@minj9_6/about" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://velog.io/@minj9_6/about" target="_blank"><img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minajee2246@gmail.com)](mailto:minajee2246@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minajee2246@gmail.com)](mailto:minajee2246@gmail.com)
 	
 # 🤘 My Github Info
 ![minjamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjamie&theme=solarized-light&show_icons=true)
