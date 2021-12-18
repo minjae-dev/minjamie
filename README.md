@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=늘 꾸준한 개발자 김민재입니다.!&fontAlign=70&desc=Desc&descAlign=20)
+![header](https://capsule-render.vercel.app/api?text=늘%꾸준한%개발자%김민재입니다!&fontAlign=70&desc=Desc&descAlign=20)
 
 ## Hello world!🌏 It's me!🙋‍♂
 # 🙋‍♂ Personal Profile
