@@ -19,9 +19,6 @@
     - React를 활용한 프론트 개발 경험을 기반으로 협업에 도움이 되도록 노력합니다.
 
 
-👨‍💻 Work Expericnce
-(주)프레젤글로벌커넥션 그륩(2021.11.15~12.09 4주간 프론트 2명, 백앤드 1명)
-
 # 🛠 Skills
 ## Front-End
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
