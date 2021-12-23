@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=MinJaeKim&fontAlign=70&desc=&descAlign=20)
 
-# 동기부여를 나누어 함께 성장하는 “🌏환경”을 만드는 
-백엔드 개발자, 김민재입니다.
+# 동기부여를 나눠 함께 성장하는 "환경”을 만드는 백엔드 개발자, 김민재입니다.
 
 # 🙋‍♂ Personal Profile
 - 개발자로서 성장하기 위해서 혼자 보단 **함께**를 지향하며 성장하며 배운 과정을 **기록화**하는 것을 습관화합니다.
