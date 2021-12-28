@@ -40,7 +40,7 @@
 
 
 # 👨‍🏫 Portfolio
-[Notion](https://www.notion.so/f724167ea36e4269b05f0965fee6b013)
+[Notion](https://www.notion.so/0e6dd4bc4e544f2c9925c8ee3dddab8f)
 
 # ☎ Contact
 <a href="https://velog.io/@minj9_6/about" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
