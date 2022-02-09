@@ -39,8 +39,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-# 👨‍🏫 Portfolio
-[Notion](https://www.notion.so/0e6dd4bc4e544f2c9925c8ee3dddab8f)
+# 👨‍🏫 Resume
+[Notion](https://handy-wallaby-2de.notion.site/81c0c6e2e5a642a1b51af56dc5bd15a1)
 
 # ☎ Contact
 <a href="https://velog.io/@minj9_6/about" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
