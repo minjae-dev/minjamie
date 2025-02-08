@@ -1,51 +1,51 @@
-![header](https://capsule-render.vercel.app/api?text=MinJaeKim&fontAlign=70&desc=&descAlign=20)
+![header](https://capsule-render.vercel.app/api?text=MINJAE KIM&fontAlign=70&desc=&descAlign=20)
 
-# 동기부여를 나눠 함께 성장하는 "환경”을 만드는 백엔드 개발자, 김민재입니다.
+# Full Stack Engineer 
 
-# 🙋‍♂ Personal Profile
-- 개발자로서 성장하기 위해서 혼자 보단 **함께**를 지향하며 성장하며 배운 과정을 **기록화**하는 것을 습관화합니다.
-    - 오늘보다 발전한 내일을 위해서 배운 것들을 [기술 블로그](https://velog.io/@minj9_6)에 
-    꾸준히 배운 것들을 **기록**하며 운영하고 있습니다.
-    - 약 2개월간 진행한 [Deep Dive JavaScript 스터디](https://www.notion.so/Javascript-Study-f1e8f6f35a2d4715812ba613ee7cda74)에서 매주 
-    발표를 통해 다양한 사람들과 함께 의견을 나누며 효율적인 
-    자바스크립트 코딩에 대해 학습했습니다.
-    - 프로젝트와 [**기업협업**](https://www.notion.so/64b3abf3c77f419f927a371ae68f7f66)을 통해 배운 것들을 동료와 **함께** 회고하며 [회고록](https://velog.io/@minj9_6/series/%ED%9A%8C%EA%B3%A0%EB%A1%9D)을 작성하며 나아지기 위해 피드백을 주고받고 있습니다.
-    
-- **협업과 개발문화**에 익숙하고, **좋은 컨벤션과 아키텍처**에 대해서  공유하는 걸 좋아합니다.
-    - 회의록, 기능/기술 명세서, API 문서 등 document 작성을 습관화합니다.
-    - prettier, eslint와 code convention 등 개발 환경 개선할 수 있는 사항들을 찾아보고 적용 할 줄 아는 개발자입니다.
-    - 개발의 생산성을 높이기 위해서 **재사용 가능한** 코드 작성을 위해 무단히 노력하며 **코드리뷰 문화**를 통해 개선해나가고 있습니다.
-    
-- 업무 효율성 증진을 위해 **새로운 기술과 테크닉**을 찾아 배우는 과정을 즐기는 개발자입니다.
-    - 효율적인 API 통신을 위해 **RESTful api와 GraphQL 방식**의 차이를 알고 적용할 줄 알며 **쿼리 튜닝**과 같이 **성능 최적화**를 위해 고민합니다.
-    - 클라우드 컴퓨팅 플랫폼(AWS)와 Docker를 활용한 개발, 배포 경험이 있습니다.
-    - React를 활용한 프론트 개발 경험을 기반으로 협업에 도움이 되도록 노력합니다.
+# 🙋‍♂ Personal Profile  
+- I prioritize **collaboration** over working alone and make a habit of **documenting** my learning process.  
+    - To continuously improve, I regularly write and share my insights on my [tech blog](https://velog.io/@minj9_6).  
+    - Led weekly discussions in a [Deep Dive JavaScript study group](https://www.notion.so/Javascript-Study-f1e8f6f35a2d4715812ba613ee7cda74), where I analyzed JavaScript efficiency with peers.  
+    - Conducted retrospectives with teammates on projects and [company collaborations](https://www.notion.so/64b3abf3c77f419f927a371ae68f7f66), documenting our learnings in [retrospective logs](https://velog.io/@minj9_6/series/%ED%9A%8C%EA%B3%A0%EB%A1%9D).  
 
+- Experienced in **team collaboration and developer culture**, passionate about **best practices and clean architecture**.  
+    - Regularly document meeting notes, technical specifications, and API documentation.  
+    - Familiar with development workflow optimizations, including **Prettier, ESLint, and code conventions**.  
+    - Strive to write **reusable, maintainable code** and continuously improve through **code reviews**.  
 
-# 🛠 Skills
-## Front-End
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- Enthusiastic about **learning new technologies** to improve workflow efficiency.  
+    - Proficient in **RESTful APIs and GraphQL**, optimizing queries for better performance.  
+    - Experienced with cloud platforms (AWS) and containerized deployment using Docker.  
+    - Frontend development experience with React, ensuring effective collaboration with frontend teams.  
 
-## Back-End
+# 🛠 Skills  
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+## Main  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)  
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
+## Sub  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 
-## DevOps
+## DevOps  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## Common  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
 
-## Common
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-
-# 👨‍🏫 Resume
-[Notion](https://handy-wallaby-2de.notion.site/81c0c6e2e5a642a1b51af56dc5bd15a1)
-
-# ☎ Contact
-<a href="https://velog.io/@minj9_6/about" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minajee2246@gmail.com)](mailto:minajee2246@gmail.com)
-	
-# 🤘 My Github Info
-![minjamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjamie&theme=solarized-light&show_icons=true)
+# 🏆 Achievements  
+- **1st Place Winner** in the **4th SWYP (Side With Your Project) Cohort**, organized by Swyg Inc., among 15 teams.  
+- Developed and deployed hospital kiosk software, now in **500+ hospitals**.  
+- Built **100+ REST APIs** with role-based access and external service integrations.  
 
